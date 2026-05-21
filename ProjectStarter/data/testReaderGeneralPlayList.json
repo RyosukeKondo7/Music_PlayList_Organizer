@@ -1,0 +1,15 @@
+{
+    "musics": [
+        {
+            "song" : "Starboy",
+            "singer" : "The Weekend",
+            "category" : "HIPHOP" 
+        },
+        {
+            "song" : "Wonderwall",
+            "singer" : "Oasis", 
+            "category" : "POP"
+        }
+    ],
+    "title" : "My playlist"
+}

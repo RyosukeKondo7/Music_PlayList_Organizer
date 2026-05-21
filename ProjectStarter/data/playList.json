@@ -1,0 +1,25 @@
+{
+    "musics": [
+        {
+            "song": "Starboy",
+            "singer": "The Weekend",
+            "category": "HIPHOP"
+        },
+        {
+            "song": "Sunflower",
+            "singer": "Post Malone",
+            "category": "HIPHOP"
+        },
+        {
+            "song": "Lovin On Me",
+            "singer": "Jack Harloe",
+            "category": "HIPHOP"
+        },
+        {
+            "song": "Circles",
+            "singer": "Post Malone",
+            "category": "HIPHOP"
+        }
+    ],
+    "title": "Ryosuke's playlist"
+}

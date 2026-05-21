@@ -1,0 +1,15 @@
+{
+    "musics": [
+        {
+            "song": "Apple",
+            "singer": "B",
+            "category": "JAZZ"
+        },
+        {
+            "song": "Banana",
+            "singer": "C",
+            "category": "CLASSICAL"
+        }
+    ],
+    "title": "My playlist"
+}
